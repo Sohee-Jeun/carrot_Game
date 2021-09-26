@@ -15,7 +15,7 @@ body {
   width: 800px;
   height: 500px;
   margin: auto;
-  background: url(/carrot/img/background.png) center/cover;
+  background: url(./carrot/img/background.png) center/cover;
   border-radius: 20px;
 }
 .game__header {
